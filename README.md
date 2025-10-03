@@ -26,7 +26,7 @@ Installation & Usage
 
 Clone the repository
 
-git clone https://github.com/skmirajulislam/JourneyCusine.git
+git clone https://github.com/msaeeedddd/JourneyCusine.git
 cd JourneyCusine
 Frontend Setup
 cd Frontend
