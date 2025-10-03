@@ -26,7 +26,7 @@ Installation & Usage
 
 Clone the repository
 
-git clone https://github.com/skmirajulislam/JourneyCusine.git
+git clone https://github.com/msaeeedddd/JourneyCusine.git
 cd JourneyCusine
 Frontend Setup
 cd Frontend
@@ -42,6 +42,7 @@ npx nodemon api.js
 
 
 Note: Split your terminal into two windows, one for frontend and one for backend.
+
 
 
 
